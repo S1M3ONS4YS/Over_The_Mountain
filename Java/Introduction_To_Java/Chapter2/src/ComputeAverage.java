@@ -6,7 +6,6 @@ public class ComputeAverage {
 
         // Prompt the user to enter three numbers
         System.out.print("Enter three numbers: ");
-
         double number1 = input.nextDouble();
         double number2 = input.nextDouble();
         double number3 = input.nextDouble();
